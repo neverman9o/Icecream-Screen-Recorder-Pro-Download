@@ -82,3 +82,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 Thank you for using Icecream Screen Recorder Pro! We hope you enjoy the software and find it useful for your screen recording needs. Don't forget to check back for updates and new features.
+ 
